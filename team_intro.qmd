@@ -9,7 +9,7 @@ format: html
      editing this same list at the same time — that's expected, and it's your first real
      merge conflict. Resolve it together rather than one person overwriting the other. -->
 
--
+- Tai Vo
 
 ## Team Visualizations
 
